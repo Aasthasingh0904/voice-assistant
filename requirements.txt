@@ -1,6 +1,4 @@
 elevenlabs>=1.50.0
-anthropic>=0.40.0
-sounddevice>=0.4.6
-soundfile>=0.12.1
-numpy>=1.26
 python-dotenv>=1.0.0
+streamlit>=1.41
+google-genai
